@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Santinelli Bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Santinelli.aternos.me",
     "port": 19213,
-    "version": "26.1.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
